@@ -1,8 +1,8 @@
-Markdown Cheatsheet<a name="TOP"></a>
+*Markdown Cheatsheet - 진태식*
 ===================
 
 - - - - 
-# Heading 1 #
+# 제1 제목 #
 
     Markup :  # Heading 1 #
 
